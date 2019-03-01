@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalProgress", "SignalProgress\SignalProgress.csproj", "{3D819491-7236-4BAD-A5E9-1674FFB5E83D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D45688E-5BA1-41A4-A002-B12187D756B3}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D819491-7236-4BAD-A5E9-1674FFB5E83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D819491-7236-4BAD-A5E9-1674FFB5E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D819491-7236-4BAD-A5E9-1674FFB5E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D819491-7236-4BAD-A5E9-1674FFB5E83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98908B74-DE7F-4C4F-BFC1-0F92E35E017B}
+	EndGlobalSection
+EndGlobal
